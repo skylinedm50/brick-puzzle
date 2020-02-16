@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4c6fe681d4a2b194f92d630c042a875e
+timeCreated: 1507001765
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Somerset Barnyard
+  fontNames:
+  - Somerset Barnyard
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

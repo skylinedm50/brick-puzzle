@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9de5269d07ccef0428aab50e4ca4e35f
+timeCreated: 1507001766
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Murder Block
+  fontNames:
+  - Murder Block
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
